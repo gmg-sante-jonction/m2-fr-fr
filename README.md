@@ -1,7 +1,7 @@
 ## Magento 2 French Language Pack
 
 ## 1. How to Install French Language Pack
-Install the French language pack via composer is never easier.
+Install the French language pack via composer.
 
 ```
 **Install French pack**:
@@ -13,7 +13,8 @@ php bin/magento cache:flush
 
 ```
 
-**Update  French pack**:
+## 2. How to update French Language Pack
+Update the French language pack via composer.
 
 ```
 composer update gmg-sante-jonction/m2-fr-fr:dev-master
