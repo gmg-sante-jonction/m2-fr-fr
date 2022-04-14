@@ -5,7 +5,7 @@
   "require": {
     "magento/framework": "*"
   },
-  "version": "100.0.0",
+  "version": "1.0.0",
   "type": "magento2-language",
   "minimum-stability": "dev",
   "prefer-stable": true,
