@@ -24,5 +24,12 @@
     "files": [
       "registration.php"
     ]
-  }
+  },
+  "config": {
+        "allow-plugins": {
+            "magento/*": true,
+            "laminas/*": true,
+            "cweagans/composer-patches": true
+        }
+    }
 }
