@@ -1,0 +1,28 @@
+{
+  "name": "gmg-sante-jonction/magento-2-french-language-pack",
+  "description": "French language package for Magento 2",
+  "homepage": "https://www.hapharma.fr",
+  "require": {
+    "magento/framework": "100.0.*"
+  },
+  "version": "100.0.0",
+  "type": "magento2-language",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "license": [
+    "MIT"
+  ],
+  "authors": [
+    {
+      "name": "HaPharma team",
+      "email": "admin@hapharma.fr",
+      "homepage": "https://www.hapharma.fr",
+      "role": "Leader"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
