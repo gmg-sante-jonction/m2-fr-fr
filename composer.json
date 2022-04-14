@@ -3,7 +3,7 @@
   "description": "French language package for Magento 2",
   "homepage": "https://www.hapharma.fr",
   "require": {
-    "magento/framework": "100.0.*"
+    "magento/framework": "*"
   },
   "version": "100.0.0",
   "type": "magento2-language",
