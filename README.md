@@ -22,3 +22,4 @@ php bin/magento cache:flush
 ```m2-fr-fr
 m2-fr-fr
 m2-fr-fr
+m2-fr-fr
