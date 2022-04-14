@@ -10,7 +10,6 @@ php bin/magento setup:static-content:deploy fr_FR
 php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
-
 ```
 
 ## 2. How to update French Language Pack
@@ -22,5 +21,4 @@ php bin/magento setup:static-content:deploy fr_FR
 php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
-
 ```
